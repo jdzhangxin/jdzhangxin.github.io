@@ -1,3 +1,15 @@
+# jdzhangxin.github.io
+
+## Start my first blog
+
+> Never ,nener ,nener give up!  
+>                    --Churchill
+
+## See
+
+[GitHub Guides Hello World](https://guides.github.com/activities/hello-world/?utm_source=onboarding-series&utm_medium=email&utm_content=hello-world-link&utm_campaign=welcome-email)
+
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
